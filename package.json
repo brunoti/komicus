@@ -36,7 +36,7 @@
     "html-webpack-plugin": "4.3.0",
     "http-proxy-middleware": "0.21.0",
     "mini-css-extract-plugin": "0.4.5",
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "object-assign": "4.1.1",
     "optimize-css-assets-webpack-plugin": "5.0.3",
     "postcss-flexbugs-fixes": "4.2.1",
